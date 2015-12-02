@@ -62,11 +62,11 @@ Here are examples of a simple "About" and "Portfolio" page that fulfill the assi
 
 - Joe, the freelance developer's "about page":
 
-![Joe's About](solution/images/about_me_deliverable.png)
+![Joe's About](about_me_deliverable.png)
 
 - Joe, the freelance developer's "portfolio page":
 
-![Joe's Portfolio](solution/images/portfolio_deliverable.png)
+![Joe's Portfolio](portfolio_deliverable.png)
 
 
 <br>
