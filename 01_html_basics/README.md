@@ -45,6 +45,5 @@ The goal of this section is to explain what it means to add "structure" to a doc
 | __Time__ | 30 min| 
 | __Topics__ | HTML Tags, Nesting| 
 | __Description__| This introductory code along meant to teach students how to read with understanding and apply the correct tag.|   
-| __Notes__| Omit ordered list ```<ol>```, students will Google it during lab time.|  
 
 ===
