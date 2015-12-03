@@ -25,9 +25,9 @@
 
 | Time        | Section| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-| _30 min_ |[Review](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_01_Basics/02_css_basics/README.md#review) | What Tag Is It? |Review exercise. Students will be asked to Google how to implement: ```<nav> <img> and <hr>```. |
-| _120 min_ | [Building A Simple Page](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_01_Basics/02_css_basics/README.md#building-a-simple-page) | Build Your Portfolio | 3 part code along to demonstrate building a simple page. Topics include: ```<nav> <img> and <hr>```, colors, fonts intro to margin and padding. |
-| _30 min_ | [Lab Time](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_01_Basics/02_css_basics/README.md#lab-time) | Portfolio |Students create an "About" and a "Portfolio" page.|
+| _30 min_ |Review | What Tag Is It? |Review exercise. Students will be asked to Google how to implement: ```<nav> <img> and <hr>```. |
+| _120 min_ | Building A Simple Page | Build Your Portfolio | 3 part code along to demonstrate building a simple page. Topics include: ```<nav> <img> and <hr>```, colors, fonts intro to margin and padding. |
+| _30 min_ | Lab Time | Portfolio |Students create an "About" and a "Portfolio" page.|
 
 =======
 
