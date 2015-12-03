@@ -1,4 +1,4 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/ga.png "GeneralAssemb.ly")
 
 ##Week 1 - The Basics
 

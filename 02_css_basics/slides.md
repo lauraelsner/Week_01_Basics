@@ -1,4 +1,4 @@
-![GeneralAssemb.ly](../img/icons/FEWD_Logo.png)
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/FEWD_Logo.png)
 
 #FEWD - CSS Basics
 
@@ -26,7 +26,7 @@ Instructors current role.
 
 ---
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/exercise_icon_md.png)
 ##What Tag Is It?
 
 ---
@@ -171,7 +171,7 @@ No transparency, can be stored at different compression levels with varying amou
 ---
 
 
-![GeneralAssemb.ly](../img/icons/code_along.png)
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/code_along.png)
 ##About Me
 
 ---
@@ -415,7 +415,7 @@ Add a couple points here with the major takeaways for the basics of CSS.
 ---
 
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/exercise_icon_md.png)
 ##Lab Time
 *	Your Portfolio!
 

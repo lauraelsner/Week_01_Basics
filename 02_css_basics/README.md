@@ -1,4 +1,4 @@
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/instr_agenda.png)
 
 
 ##Lesson 02 - CSS Basics
@@ -102,7 +102,7 @@ _Time: 30min_
 
 ===
 
-[![slides](../../img/icons/slides.png)](slides.md)
+[![slides](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/slides.png)](slides.md)
 
 click icon for slides.
 

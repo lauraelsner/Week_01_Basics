@@ -1,3 +1,5 @@
+![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/ga.png "GeneralAssemb.ly")
+
 #Lesson 01 - HTML Basics
 
 ##LEARNING OBJECTIVES
