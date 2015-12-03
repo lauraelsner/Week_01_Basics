@@ -21,9 +21,9 @@ When beginning to work on a project in [Sublime Text](http://www.sublimetext.com
 **Or** you can open Sublime Text and go to `file>open` and select the project **folder** instead of an individual file
 ![opening a folder in sublime text](stfolder2.gif)
 
-###HTML Tags & CSS Selectors Review
+###HTML Tags Review
 
- *	This section is a refresher for students. As pre-work we asked students to complete Project 1: ["Anna's Website"](https://dash.generalassemb.ly/projects/annas-website-1) in Dash. Review tag syntax (tags have opening and closing brackets etc.) Review CSS syntax. __NOTES: Students were only introduced to element selectors.__
+ *	This section is a refresher for students. As pre-work we asked students to complete Project 1: ["Anna's Website"](https://dash.generalassemb.ly/projects/annas-website-1) in Dash. Review tag syntax (tags have opening and closing brackets etc.) 
 
 ===
  
