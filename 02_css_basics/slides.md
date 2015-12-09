@@ -1,39 +1,4 @@
-![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/FEWD_Logo.png)
-
 #FEWD - CSS Basics
-
-###Instructor Name
-
-Instructors current role.
-
----
-
-
-##Agenda
-
-*	HTML & External Style Sheet Review
-*	Building A Simple Web Page
-	*	Images
-	*	Nav
-	*	Colors
-	*	Fonts
-	*	Linking To Other Pages
-*	Lab Time
-
----
-
-##HTML Basics Review
-
----
-
-![GeneralAssemb.ly](https://raw.githubusercontent.com/GA-Chicago-FEWD6/resources/master/images/icons/exercise_icon_md.png)
-##What Tag Is It?
-
----
-
-##Building Websites`
-
----
 
 ##Images
 
