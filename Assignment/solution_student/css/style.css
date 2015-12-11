@@ -65,13 +65,15 @@ li p {
 	font-family: Lora, serif;
 }
 
-
 .footer {
 	text-align: center;
 	font-family: Open Sans, sans-serif;
 	font-size: 16px;
 	clear: both;
 }
+
+/*portfolio.html styles*/
+
 
 .portrait {
 	height: 20%px;
