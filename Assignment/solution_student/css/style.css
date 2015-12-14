@@ -8,7 +8,7 @@ html {
 
 nav {
 	text-align: center;
-	font-family: Open Sans, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -23,26 +23,25 @@ img {
 	padding: 3px;
 }
 
+h1, h2, h3 {
+	font-family: 'Lora', Serif;
+	color: #272A32;
+}
+
 h1 {
 	font-size: 60px;
-	font-family: Lora, Serif;
-	color: #272A32;
 }
 
 h2 {
-	font-family: Lora, Serif;
 	font-size: 30px;
-	color: #272A32;
 }
 
 h3 {
-	font-family: Lora, Serif;
 	font-size: 24px;
-	color: #272A32;
 }
 
 h4 {
-	font-family: Open Sans, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 21px;
 }
 
@@ -75,13 +74,13 @@ a:hover {
 }
 
 li {
-	font-family: Open Sans, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	padding-bottom: 20px;
 	font-size: 21px;
 }
 
 li p {
-	font-family: Lora, serif;
+	font-family: 'Lora', serif;
 }
 
 .all {
@@ -92,17 +91,14 @@ li p {
 
 .footer {
 	text-align: center;
-	font-family: Open Sans, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	clear: both;
 }
 
 
 
-
-
 /*INDEX.HTML STYLES*/
-
 
 
 
