@@ -6,15 +6,14 @@ html {
 	border-top: 15px solid #005C89;
 }
 
-nav {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-}
-
-
 body {
 	background-color: #f6f6f6;
 
+}
+
+nav {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
 }
 
 img {
